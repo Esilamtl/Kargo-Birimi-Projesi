@@ -21,3 +21,14 @@ Bu sistem, kargo biriminde operasyonel verimliliği artırmak, personelin işler
 📹 **Demo Videosu:** [[Buraya Tıkla](https://drive.google.com/file/d/1nAoC4-gcQrZFC30EsVGtPJ4fCMdhV8XY/view?usp=drive_link)]
 
 
+<img width="415" height="305" alt="Ekran görüntüsü 2025-09-10 121209" src="https://github.com/user-attachments/assets/5a6fab0c-3726-4b8c-89f1-c242e567c535" />
+<img width="439" height="244" alt="Ekran görüntüsü 2025-09-10 121101" src="https://github.com/user-attachments/assets/29025c85-945f-4152-8fe9-9f2e1f62f3b6" />
+<img width="1894" height="514" alt="Ekran görüntüsü 2025-09-10 121040" src="https://github.com/user-attachments/assets/8cecbf54-79ae-4827-b323-fa94a59714c2" />
+<img width="1897" height="628" alt="Ekran görüntüsü 2025-09-10 121017" src="https://github.com/user-attachments/assets/198a3f67-bf12-4690-a0f6-953469a8fd61" />
+<img width="1902" height="818" alt="Ekran görüntüsü 2025-09-10 120931" src="https://github.com/user-attachments/assets/b3118cf3-c5db-4b9b-8cf9-020cb7f8f5c7" />
+<img width="1908" height="607" alt="Ekran görüntüsü 2025-09-10 120904" src="https://github.com/user-attachments/assets/7f7f92ef-6e24-454f-bf14-de987e8c453c" />
+<img width="1895" height="800" alt="Ekran görüntüsü 2025-09-10 120839" src="https://github.com/user-attachments/assets/ec411d33-918b-42f2-be5c-9e6a09185916" />
+<img width="1879" height="506" alt="Ekran görüntüsü 2025-09-10 120756" src="https://github.com/user-attachments/assets/305d0456-39f0-49d9-a6c9-fedda236c20e" />
+<img width="1910" height="406" alt="Ekran görüntüsü 2025-09-10 120733" src="https://github.com/user-attachments/assets/c6a8b25d-7187-48f2-9d57-2a2c19488805" />
+<img width="761" height="549" alt="Ekran görüntüsü 2025-09-10 121603" src="https://github.com/user-attachments/assets/7444415d-f224-4a0f-8a7d-076c77f84624" />
+<img width="1783" height="595" alt="Ekran görüntüsü 2025-09-10 121422" src="https://github.com/user-attachments/assets/bbae653e-789b-4d29-bc44-b37e31627fee" />
